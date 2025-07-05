@@ -1,7 +1,7 @@
 # ZAGROX
 
-A new Flutter project.
+A new ZAGROX mobile app project.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Zagrox and FlutterFlow projects are built to run on the Flutter _stable_ release.
